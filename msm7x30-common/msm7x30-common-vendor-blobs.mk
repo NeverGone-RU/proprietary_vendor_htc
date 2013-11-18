@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/msm7x30-common/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
   vendor/htc/msm7x30-common/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
   vendor/htc/msm7x30-common/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
-  vendor/htc/msm7x30-common/proprietary/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
   vendor/htc/msm7x30-common/proprietary/lib/libv8.so:system/lib/libv8.so \
   vendor/htc/msm7x30-common/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
   vendor/htc/msm7x30-common/proprietary/lib/libchromatix_s5k4e1gx_default_video.so:system/lib/libchromatix_s5k4e1gx_default_video.so \
